@@ -4,7 +4,7 @@
 @ver 1.1.2
 @
 **/
-<<<<<<< HEAD
+
 System.OutOfMemoryError("new");
 print("Open file new zorro;");
 Zorro (*);
