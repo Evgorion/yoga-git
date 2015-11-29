@@ -1,13 +1,19 @@
 /** Hello
-@autor Evgeny
+@autor Evgeny Gorodec
 @date 28.11.2015
 @ver 1.1.2
 @
 **/
-System.OutOfMemoryError("new;");
-print("Open file;");
+
+System.OutOfMemoryError("new");
+print("Open file new zorro;");
 Zorro (*);
 New Zeber("Hello new zeber;");
 New Zeber("Hello new zeber;");
 New Zeber("Hello new zeber;");
 New Zeber("Hello new zeber;");
+
+New Zeber("Hello new zeber file;");
+print("New zober file;");
+
+
