@@ -4,7 +4,7 @@
 @ver 1.1.2
 @
 **/
-System.OutOfMemoryError("new");
-print("Open file");
+System.OutOfMemoryError("new;");
+print("Open file;");
 Zorro (*);
-New Zeber("Hello new zeber");
+New Zeber("Hello new zeber;");
