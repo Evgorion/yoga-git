@@ -7,3 +7,4 @@ System.OutOfMemoryError("new");
 print("Open file");
 Zorro (*);
 New Zeber("Hello new zeber");
+print("New zober file");
