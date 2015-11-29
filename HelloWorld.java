@@ -1,5 +1,5 @@
 /** Hello
-@autor Evgeny
+@autor Evgeny Gorodec
 @date 28.11.2015
 @ver 1.1.2
 @
