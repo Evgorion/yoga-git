@@ -1,7 +1,8 @@
 /** Hello
 @autor Evgeny
 @date 28.11.2015
-@ver 1.0.2
+@ver 1.1.2
+@
 **/
 System.OutOfMemoryError("new");
 print("Open file");
